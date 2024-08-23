@@ -1,6 +1,7 @@
 # <samp>OVERVIEW</samp>
 
-ADB binaries ready for Android as a Flutter library.
+ADB binaries ready for Android as a Flutter library.  
+Execute any ADB commands directly **from your Android device**.
 
 | <samp>AND</samp> | <samp>IOS</samp> | <samp>LIN</samp> | <samp>MAC</samp> | <samp>WIN</samp> | <samp>WEB</samp> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
